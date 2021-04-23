@@ -30,7 +30,7 @@ export class CreateClient1619098088789 implements MigrationInterface {
                         type: "varchar"
                     }
                 ]
-            });
+            })
         );
     }
 
