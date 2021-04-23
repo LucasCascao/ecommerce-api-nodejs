@@ -1,7 +1,7 @@
 {
-  "name": "palacio-geek-server",
+  "name": "e-commerce-api",
   "version": "1",
-  "description": "Servidor do E-Commerce Palacio Geek",
+  "description": "API Rest de E-Commerce Generico",
   "main": "index.js",
   "author": "",
   "license": "MIT",
@@ -19,6 +19,7 @@
     "nodemailer": "^6.5.0",
     "pg": "^8.5.1",
     "reflect-metadata": "^0.1.13",
+    "sqlite": "^4.0.21",
     "typeorm": "^0.2.31",
     "uuid": "^8.3.2",
     "yarn": "^1.22.10"
